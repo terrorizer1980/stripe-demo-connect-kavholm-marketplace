@@ -38,7 +38,7 @@
     "react-moment": "^0.9.2",
     "react-number-format": "^4.2.0",
     "react-stripe-elements": "^5.0.0",
-    "shortid": "^2.2.14",
+    "shortid": "^2.2.17",
     "stripe": "^7.13.1"
   }
 }
